@@ -32,3 +32,14 @@ $ flutter test --machine test/widget_test.dart
 $ flutter test
 ```
 
+### Hosting with Firebase
+```
+$ firebase init
+
+# Set /build/web for deploy directory to hosting
+
+$ firebase deploy --only hosting
+# or just
+$ firebase deploy
+```
+
