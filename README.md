@@ -13,7 +13,7 @@ $ git clone https://github.com/KKimj/flutter-template.git
 
 ## Tips
 
-### Build flutter project with chrome 
+### Build flutter project, chrome 
 ```
 $ flutter run -d chrome
 ```
@@ -27,13 +27,13 @@ $ flutter test
 
 ---
 
-### Release Build with chrome
+### Release Build, chrome
 ```
 $ flutter run -d chrome --release
 # check /build/web/
 ```
 
-### Hosting with Firebase
+### Firebase hosting
 ```
 $ firebase init
 
