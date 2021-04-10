@@ -18,18 +18,19 @@ $ git clone https://github.com/KKimj/flutter-template.git
 $ flutter run -d chrome
 ```
 
-### Release Build with chrome
-```
-$ flutter run -d chrome --release
-# check /build/web/
-```
-
-
 ### Test .dart /test
 ```
 $ flutter test --machine test/widget_test.dart
 # or just
 $ flutter test
+```
+
+---
+
+### Release Build with chrome
+```
+$ flutter run -d chrome --release
+# check /build/web/
 ```
 
 ### Hosting with Firebase
