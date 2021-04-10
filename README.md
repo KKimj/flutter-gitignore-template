@@ -10,10 +10,20 @@ Flutter & Firebase project template
 $ git clone https://github.com/KKimj/flutter-template.git
 ```
 
-### Build flutter project with Chrome 
+
+## Tips
+
+### Build flutter project with chrome 
 ```
 $ flutter run -d chrome
 ```
+
+### Release Build with chrome
+```
+$ flutter run -d chrome --release
+# check /build/web/
+```
+
 
 ### Test .dart /test
 ```
