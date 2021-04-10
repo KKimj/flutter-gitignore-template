@@ -135,3 +135,7 @@ app.*.map.json
 /android/app/release
 
 **/android/key.properties
+
+
+# MacOS
+*.DS_Store
