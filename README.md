@@ -9,5 +9,5 @@ Flutter & Firebase .gitignore project template
 ## Getting started
 
 ```bash
-git clone https://github.com/KKimj/flutter-template.git
+git clone https://github.com/aldoyh/flutter-gitignore.git
 ```
